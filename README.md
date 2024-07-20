@@ -1,6 +1,6 @@
 Small python expense tracker in cli.
 
-````bash
+```bash
 python3 main.py
 ```
 
